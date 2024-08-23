@@ -1,0 +1,32 @@
+html,body{
+   height: 100%;
+}
+
+.bg-reset{
+padding: 50px;
+   min-height:100vh;
+    height: 100%;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,120,0.8799894957983193) 0%, rgba(111,0,255,1) 100%);
+}
+
+
+.root-container{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border: 1px solid black;
+   width: 500px;
+   height: 220px;
+   margin: 80px auto;
+   padding: 20px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),;
+}
+.email{
+    width: 350px;
+   margin: 0 auto;
+
+}
+.btn{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
